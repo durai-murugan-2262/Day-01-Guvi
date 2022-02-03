@@ -1,0 +1,8 @@
+Date: 22-01-2021
+TOPIC: Difference between HTTP 1.1 and 2.
+
+HTTP 1.1:
+	HTTP was developed by Timothy Berners Lee in 1989. It is a protocol that exchanges information between a client computer and a local or remote web server. A client sends a text-based request to a server by calling a method(eg., GET,POST). Then the server sends a resource like an HTML page back to the client.
+
+HTTP 2:
+	HTTP/2 began as the SPDY protocol, developed at Google with the intention of reducing web page load latency by using techniques such as compression,multiplexing and prioritization. The most significant feature between these is the binary framing layer.
